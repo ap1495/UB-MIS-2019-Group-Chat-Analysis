@@ -8,5 +8,3 @@ Data was gathered in the following steps -
 3. Save it as a .csv file and read it using pandas.
 
 This notebook contains interactive plotly visualizations which are not rendered on GitHub. So, please use the following link below to view the notebook with rendered interactive visualizations - https://nbviewer.jupyter.org/github/ap1495/UB-MIS-2019-Group-Chat-Analysis/blob/master/UB-MIS-GroupChat.ipynb
-
-** This notebook contains interactive plotly visualizations which can be viewed here - 
