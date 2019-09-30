@@ -1,6 +1,6 @@
 # Whatsapp-Group-Chat-Analysis
 
-This project is a data visualization exercise and I aim to derive insights and plot interactive plotly visualizations of a Whatsapp group chat - University at Buffalo MS MIS 2019 Admits.
+This project is a text mining and data visualization exercise. I aim to derive insights and plot interactive plotly visualizations of a Whatsapp group chat - University at Buffalo MS MIS 2019 Admits.
 
 Data was gathered in the following steps - 
 1. Export the raw chat file in .txt format from whatsapp.
